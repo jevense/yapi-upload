@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jevense.yapiupload.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jevense.yapiupload.MyBundle
 
 class MyApplicationService {
 
